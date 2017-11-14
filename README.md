@@ -1,6 +1,11 @@
 # Awesome MapD [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> a curated list of MapD resources 
+
+A curated list of awesome [MapD](https://www.mapd.com/) resources.  
+Inspired by the `awesome-*` trend on GitHub.
+
+The goal is to build a categorized community-driven collection of well-known resources.  
+Sharing, suggestions and contributions are always welcome!
 
 
 ## Contents
