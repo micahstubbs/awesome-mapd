@@ -18,10 +18,10 @@ Sharing, suggestions and contributions are always welcome!
 
 Writing about exploring data with MapD
 
-- [気象データをMapDに入れて分析してみた
-使用するデータ](https://www.insight-tec.com/blog/technical/20171114_mapd)
-- [Weather data was put in MapD and analyzed](https://www.insight-tec.com/blog/technical/20171114_mapd)
-- Running MapD on AWS ECS 📝 [@BrianPloetz](https://twitter.com/brianploetz)  
+- [気象データをMapDに入れて分析してみた 
+使用するデータ](https://www.insight-tec.com/blog/technical/20171114_mapd) from Yuki [@insight_socio](https://twitter.com/insight_socio)  
+- [Weather data was put in MapD and analyzed](https://www.insight-tec.com/blog/technical/20171114_mapd) from Yuki [@insight_socio](https://twitter.com/insight_socio)  
+- **Running MapD on AWS ECS** from [@BrianPloetz](https://twitter.com/brianploetz)  
   - [Part 1: Running MapD on Docker](https://medium.com/ground-signal-engineering/running-mapd-on-aws-ecs-part1-ea505c056f58)
   - [Part 2: GPU Powered Docker Containers on ECS](https://medium.com/ground-signal-engineering/running-mapd-on-aws-ecs-part2-4fd159d31b35)
 
