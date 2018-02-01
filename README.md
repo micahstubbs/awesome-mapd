@@ -27,6 +27,7 @@ Writing about exploring data with MapD
   - [Part 1: Running MapD on Docker](https://medium.com/ground-signal-engineering/running-mapd-on-aws-ecs-part1-ea505c056f58)
   - [Part 2: GPU Powered Docker Containers on ECS](https://medium.com/ground-signal-engineering/running-mapd-on-aws-ecs-part2-4fd159d31b35)
 - [Cache Storage Options for your Next Custom Visualization](https://medium.com/@ajoabraham/cache-storage-options-for-your-next-custom-visualization-818ee0ee93cc) from [@ajoabraham](https://twitter.com/@ajoabraham)
+- [Getting Started With MapD: Docker Install and Loading Data](http://randyzwitch.com/mapd-install-load-data/) from [@randyzwitch](https://twitter.com/randyzwitch)
 
 ## Contribute
 
